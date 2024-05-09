@@ -1,2 +1,2 @@
-# Imers-oIA
+# ImersaoIA
 Repositório da imersão IA Alura
